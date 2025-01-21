@@ -29,9 +29,7 @@ app.listen(PORT, () =>{
     connectDB()
 })
 
-//tTvk1BhYYqQAuw3d
-//mateen4317123
-//51a99a287a9fb16d1c0b98c521b4341f apikey
+
 
 
 
